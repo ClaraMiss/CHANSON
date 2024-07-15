@@ -1,0 +1,23 @@
+p{font-style: lora;
+	text-align: center;}
+
+h1{margin: auto;
+	text-align: center;}
+
+body{background-color:#FDF7F0;}
+
+.video {text-align: center;width560px;margin-left:auto; margin-bottom:35px;}
+
+img{width: 250px;
+	height: 250px;}
+ 
+ 
+
+
+.Ombre{box-shadow: 10px 10px black;}
+
+/* Create three equal columns that float next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+}
